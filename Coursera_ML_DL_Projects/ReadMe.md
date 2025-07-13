@@ -1,1 +1,1 @@
-Course
+Contains all projects from Coursera
